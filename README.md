@@ -1,15 +1,10 @@
 Git勉強会
 
-本日の内容は、Githubの使い方にまとめてあります。<br/>
-[]
-
-時間: 昼過ぎ〜13:50時 (14時から予定があるので)<br/>
 対象者: Add, Commit, Branch についてなんとなくわかっている人向け。
 
 
 ！！事前準備！！<br/>
-git_studyリポジトリをクローンしてくださいー<br/>
-やり方はこちらから:<br/>
+リポジトリを作成して、vscodeで操作できる状態にしてください。
 https://github.com/ronlynes/git_study/tree/main/github/vs_git_install
 
 
