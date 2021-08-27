@@ -10,7 +10,7 @@ Git勉強会
 ！！事前準備！！<br/>
 git_studyリポジトリをクローンしてくださいー<br/>
 やり方はこちらから:<br/>
-[]
+https://github.com/ronlynes/git_study/tree/main/github/vs_git_install
 
 
 【お品書き】
@@ -18,12 +18,11 @@ git_studyリポジトリをクローンしてくださいー<br/>
 https://www.sejuku.net/blog/7901
 
 2. 座学: 10分 Git-flowについて<br/>
-[]
 
 3. 実践: 30分: VSCodeとGitを使って、複数人で開発してみよう。<br/>
-[]
+https://github.com/ronlynes/git_study/tree/main/github/git-flow
 
-VS Codeの使い方: []
+VS Codeの使い方: https://github.com/ronlynes/git_study/tree/main/github/vs_git_use
 
     1. VSCodeでgit_studyリポジトリを開く。
     2. developブランチに切り替える。
@@ -34,4 +33,4 @@ VS Codeの使い方: []
     7. Squash and mergeをする。
 
 4. 座学&実践: 15分: Gitを使ったプロジェクト管理<br/>
-[]
+https://github.com/ronlynes/git_study/tree/main/github/git_pjk
